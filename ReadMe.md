@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋Hi, I'm Rishab Sharma -<br>Computer Science Student<br><br>Full Stack Development Enthusiast<br><br>Exploring Artificial Intelligence<br><br>Building real-world applications Improving Data Structures & Algorithms<br><br>& Open Source<br><br>Learning something new every day Computer Science Student<br><br>Full Stack Development Enthusiast<br><br>Exploring Artificial Intelligence<br><br>Building real-world applications Improving Data Structures & Algorithms<br><br>& Open Source<br><br>Learning something new every day
+👋Hi, I'm Rishab Sharma -<br>Computer Science Student<br><br>Exploring Artificial Intelligence
 
 
 ## 🌐 Socials:
